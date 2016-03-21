@@ -5,7 +5,8 @@
 
 <p>Includes resources relevant, such as Bootstrap, FontAwesome, Jquery, etc.<ch value="nbsp"/></p>
 
-<p>Remember to add <ch value="nbsp"/><ch value="lt"/>xsl:call-template name="include-extension-styles"/<ch value="gt"/><ch value="nbsp"/>and<ch value="nbsp"/><ch value="lt"/>xsl:call-template name="include-extension-scripts"/<ch value="gt"/><ch value="nbsp"/>to your template so all your resource-links from all your extension will be included.<ch value="nbsp"/></p>
+<p>Remember to add `<ch value="lt"/>xsl:call-template name="include-extension-styles"/<ch value="gt"/>` and `<ch value="lt"/>xsl:call-template name="include-extension-scripts"/<ch value="gt"/>`<br/>
+to your template so all your resource-links from all your extension will be included.</p>
 
 <p><ch value="nbsp"/></p>
 </README>
