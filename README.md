@@ -1,7 +1,7 @@
 Getting started
 ===============
 
-Please refer to our [WebPal Developer Guide](https://www.gitbook.com/book/palomino/webpaldev/details) for more information on how to use WebPal extensions
+Please refer to our \[WebPal Developer Guide\](https://www.gitbook.com/book/palomino/webpaldev/details) for more information on how to use WebPal extensions
 
 - Writing and extension
 - GitHub integration
